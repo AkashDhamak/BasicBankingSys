@@ -1,5 +1,6 @@
 # BasicBankingSys
-#Context
+# Context
+
 Decades before, most of the banks used to maintain the details of their customers in a record book or in an excel sheet in a computer. This is not so reliable as compared to today’s revolutionary growth of technology in almost all of the fields.
 
 There is also a negative side in today’s growth of technology i.e. the increasing cyber crimes all over the world.
